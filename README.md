@@ -4,4 +4,4 @@ SO STUDAMTE DE TEKNOLOJIA NA SCOLA JAO MARCIANU
 
 - APREMDEMDU COMTEUDO NA PLATAFORMA ALURA
 
-  ! [] https://media1.tenor.com/m/R8F5W4Bu2t8AAAAd/yungmoney3a.gif
+  ![](https://media1.tenor.com/m/R8F5W4Bu2t8AAAAd/yungmoney3a.gif)
